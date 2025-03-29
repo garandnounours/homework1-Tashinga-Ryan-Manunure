@@ -1,0 +1,593 @@
+{
+    "gameHistory": [
+        [
+            {
+                "id": 1,
+                "points": 14
+            },
+            {
+                "id": 2,
+                "points": 14
+            },
+            {
+                "id": 0,
+                "points": 12
+            },
+            {
+                "id": 3,
+                "points": 12
+            }
+        ]
+    ],
+    "teamsStorage": {
+        "0": {
+            "id": 0,
+            "points": 12
+        },
+        "1": {
+            "id": 1,
+            "points": 14
+        },
+        "2": {
+            "id": 2,
+            "points": 14
+        },
+        "3": {
+            "id": 3,
+            "points": 12
+        }
+    },
+    "teamIdentifierCounter": 0,
+    "cardIdentifierCounter": 61,
+    "usedCards": [
+        {
+            "id": 0,
+            "words": [
+                "debt",
+                "canvas",
+                "twig",
+                "way"
+            ]
+        },
+        {
+            "id": 1,
+            "words": [
+                "spot",
+                "railway",
+                "houses",
+                "coat"
+            ]
+        },
+        {
+            "id": 2,
+            "words": [
+                "can",
+                "sticks",
+                "spiders",
+                "group"
+            ]
+        },
+        {
+            "id": 3,
+            "words": [
+                "son",
+                "eyes",
+                "bait",
+                "guide"
+            ]
+        },
+        {
+            "id": 4,
+            "words": [
+                "fear",
+                "fall",
+                "winter",
+                "jewel"
+            ]
+        },
+        {
+            "id": 5,
+            "words": [
+                "hair",
+                "experience",
+                "friend",
+                "chess"
+            ]
+        },
+        {
+            "id": 6,
+            "words": [
+                "limit",
+                "war",
+                "toys",
+                "fact"
+            ]
+        },
+        {
+            "id": 7,
+            "words": [
+                "authority",
+                "party",
+                "earth",
+                "vein"
+            ]
+        },
+        {
+            "id": 8,
+            "words": [
+                "note",
+                "thing",
+                "account",
+                "name"
+            ]
+        },
+        {
+            "id": 9,
+            "words": [
+                "stream",
+                "cast",
+                "pocket",
+                "pest"
+            ]
+        },
+        {
+            "id": 10,
+            "words": [
+                "anger",
+                "pan",
+                "metal",
+                "aunt"
+            ]
+        },
+        {
+            "id": 11,
+            "words": [
+                "agreement",
+                "curve",
+                "porter",
+                "quiet"
+            ]
+        },
+        {
+            "id": 12,
+            "words": [
+                "structure",
+                "flesh",
+                "seat",
+                "thunder"
+            ]
+        },
+        {
+            "id": 13,
+            "words": [
+                "wine",
+                "thought",
+                "sea",
+                "apparel"
+            ]
+        },
+        {
+            "id": 14,
+            "words": [
+                "substance",
+                "force",
+                "pin",
+                "plastic"
+            ]
+        },
+        {
+            "id": 15,
+            "words": [
+                "crack",
+                "ticket",
+                "milk",
+                "income"
+            ]
+        },
+        {
+            "id": 16,
+            "words": [
+                "glass",
+                "air",
+                "needle",
+                "basketball"
+            ]
+        },
+        {
+            "id": 17,
+            "words": [
+                "loaf",
+                "pen",
+                "art",
+                "office"
+            ]
+        },
+        {
+            "id": 18,
+            "words": [
+                "spade",
+                "truck",
+                "turkey",
+                "bucket"
+            ]
+        },
+        {
+            "id": 19,
+            "words": [
+                "mint",
+                "push",
+                "edge",
+                "straw"
+            ]
+        },
+        {
+            "id": 20,
+            "words": [
+                "end",
+                "card",
+                "table",
+                "judge"
+            ]
+        },
+        {
+            "id": 21,
+            "words": [
+                "marble",
+                "burst",
+                "swing",
+                "reason"
+            ]
+        },
+        {
+            "id": 22,
+            "words": [
+                "rings",
+                "toy",
+                "snakes",
+                "humor"
+            ]
+        },
+        {
+            "id": 23,
+            "words": [
+                "creator",
+                "camp",
+                "angle",
+                "wash"
+            ]
+        },
+        {
+            "id": 24,
+            "words": [
+                "fold",
+                "mouth",
+                "fireman",
+                "corn"
+            ]
+        },
+        {
+            "id": 25,
+            "words": [
+                "low",
+                "suit",
+                "touch",
+                "zebra"
+            ]
+        },
+        {
+            "id": 26,
+            "words": [
+                "side",
+                "grade",
+                "design",
+                "silver"
+            ]
+        },
+        {
+            "id": 27,
+            "words": [
+                "mark",
+                "friction",
+                "moon",
+                "toothbrush"
+            ]
+        },
+        {
+            "id": 28,
+            "words": [
+                "downtown",
+                "home",
+                "sock",
+                "hole"
+            ]
+        },
+        {
+            "id": 29,
+            "words": [
+                "protest",
+                "square",
+                "field",
+                "bit"
+            ]
+        },
+        {
+            "id": 30,
+            "words": [
+                "request",
+                "space",
+                "brother",
+                "toad"
+            ]
+        },
+        {
+            "id": 31,
+            "words": [
+                "vest",
+                "tray",
+                "ladybug",
+                "mask"
+            ]
+        },
+        {
+            "id": 32,
+            "words": [
+                "things",
+                "story",
+                "trip",
+                "plot"
+            ]
+        },
+        {
+            "id": 33,
+            "words": [
+                "pigs",
+                "images",
+                "basin",
+                "decision"
+            ]
+        },
+        {
+            "id": 34,
+            "words": [
+                "knee",
+                "chance",
+                "mice",
+                "rate"
+            ]
+        },
+        {
+            "id": 35,
+            "words": [
+                "committee",
+                "brass",
+                "minute",
+                "vegetable"
+            ]
+        },
+        {
+            "id": 36,
+            "words": [
+                "rainstorm",
+                "salt",
+                "shock",
+                "camera"
+            ]
+        },
+        {
+            "id": 37,
+            "words": [
+                "sponge",
+                "wrist",
+                "uncle",
+                "instrument"
+            ]
+        },
+        {
+            "id": 38,
+            "words": [
+                "basket",
+                "playground",
+                "dirt",
+                "mom"
+            ]
+        },
+        {
+            "id": 39,
+            "words": [
+                "wool",
+                "value",
+                "receipt",
+                "afterthought"
+            ]
+        },
+        {
+            "id": 40,
+            "words": [
+                "color",
+                "adjustment",
+                "amusement",
+                "trains"
+            ]
+        },
+        {
+            "id": 41,
+            "words": [
+                "addition",
+                "cup",
+                "destruction",
+                "error"
+            ]
+        },
+        {
+            "id": 42,
+            "words": [
+                "eye",
+                "star",
+                "boat",
+                "shoes"
+            ]
+        },
+        {
+            "id": 43,
+            "words": [
+                "notebook",
+                "sidewalk",
+                "drawer",
+                "surprise"
+            ]
+        },
+        {
+            "id": 44,
+            "words": [
+                "steam",
+                "credit",
+                "berry",
+                "tramp"
+            ]
+        },
+        {
+            "id": 45,
+            "words": [
+                "skirt",
+                "whistle",
+                "crow",
+                "dime"
+            ]
+        },
+        {
+            "id": 46,
+            "words": [
+                "jellyfish",
+                "gate",
+                "seed",
+                "number"
+            ]
+        },
+        {
+            "id": 47,
+            "words": [
+                "motion",
+                "veil",
+                "trees",
+                "comparison"
+            ]
+        },
+        {
+            "id": 48,
+            "words": [
+                "school",
+                "shake",
+                "skate",
+                "education"
+            ]
+        },
+        {
+            "id": 49,
+            "words": [
+                "peace",
+                "locket",
+                "ducks",
+                "skin"
+            ]
+        },
+        {
+            "id": 50,
+            "words": [
+                "army",
+                "eggnog",
+                "van",
+                "popcorn"
+            ]
+        },
+        {
+            "id": 51,
+            "words": [
+                "pot",
+                "soda",
+                "pump",
+                "key"
+            ]
+        },
+        {
+            "id": 52,
+            "words": [
+                "rabbits",
+                "stem",
+                "water",
+                "hands"
+            ]
+        },
+        {
+            "id": 53,
+            "words": [
+                "ants",
+                "grass",
+                "cable",
+                "daughter"
+            ]
+        },
+        {
+            "id": 54,
+            "words": [
+                "smell",
+                "discovery",
+                "sweater",
+                "badge"
+            ]
+        },
+        {
+            "id": 55,
+            "words": [
+                "nerve",
+                "glove",
+                "stage",
+                "spy"
+            ]
+        },
+        {
+            "id": 56,
+            "words": [
+                "part",
+                "stranger",
+                "development",
+                "year"
+            ]
+        },
+        {
+            "id": 57,
+            "words": [
+                "paper",
+                "scene",
+                "sort",
+                "snails"
+            ]
+        },
+        {
+            "id": 58,
+            "words": [
+                "representative",
+                "mailbox",
+                "honey",
+                "kick"
+            ]
+        },
+        {
+            "id": 59,
+            "words": [
+                "mine",
+                "match",
+                "treatment",
+                "grandfather"
+            ]
+        },
+        {
+            "id": 60,
+            "words": [
+                "profit",
+                "laborer",
+                "jar",
+                "step"
+            ]
+        }
+    ]
+}
