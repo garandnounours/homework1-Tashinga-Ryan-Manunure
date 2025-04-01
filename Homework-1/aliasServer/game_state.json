@@ -22,6 +22,16 @@
             {
                 "id": 4
             }
+        ],
+        [
+            {
+                "id": 5,
+                "points": 71
+            },
+            {
+                "id": 6,
+                "points": 16
+            }
         ]
     ],
     "teamsStorage": {
@@ -43,9 +53,17 @@
         },
         "4": {
             "id": 4
+        },
+        "5": {
+            "id": 5,
+            "points": 71
+        },
+        "6": {
+            "id": 6,
+            "points": 16
         }
     },
-    "teamIdentifierCounter": 5,
+    "teamIdentifierCounter": 7,
     "cardIdentifierCounter": 61,
     "usedCards": [
         {
